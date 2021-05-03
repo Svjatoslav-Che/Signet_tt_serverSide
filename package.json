@@ -2,7 +2,7 @@
   "name": "expressapp",
   "version": "1.0.0",
   "scripts": {
-    "start": "node app.js"
+    "start": "nodemon app.js localhost 3000 "
   },
   "dependencies": {
     "cors": "^2.8.5",
